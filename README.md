@@ -28,13 +28,7 @@ patterns and emergent behaviour.
 
 ## Getting Started
 
-1. Clone or download this repository.
-2. Open `index.html` in a modern web browser.
-3. Interact with the simulation using the controls available in the
-   application.
-
-If the project requires a local development server, follow the
-corresponding setup instructions.
+https://diegopalenciamartinez.github.io/game-of-life-simulation/
 
 ## Project Context
 
